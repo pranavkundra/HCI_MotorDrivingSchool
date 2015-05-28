@@ -5,4 +5,4 @@ Part of Human Computer Interaction (HCI) coursework in undergrad. This interface
 
 Live version found <a target="_blank" href="http://pranavkundra.github.io/HCI_MotorDrivingSchool/">here</a>.
 
-Built using Bootstrap and <a target="_blank" href="https://blueimp.github.io/Bootstrap-Image-Gallery/">BlueImp Image Gallery</a>.
+Built using Bootstrap and <a target="_blank" href="https://blueimp.github.io/Bootstrap-Image-Gallery/">BlueImp Image Gallery</a> for images.
